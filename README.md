@@ -101,8 +101,6 @@ My personal portfolio built on the MERN stack.
 
 <img src="https://streak-stats.demolab.com?user=JatinCoder123&theme=tokyonight&hide_border=true" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JatinCoder123&theme=tokyo-night&hide_border=true" />
-
 </div>
 
 ---
