@@ -9,7 +9,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=JatinCoder123&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="profile views"/>
   <a href="mailto:verm.jatin2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://mern-portfolio-fawn.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://my-portfolio-phi-lac-mdj5p6vhal.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 </div>
